@@ -2,7 +2,7 @@
 Quick Start Guide to Clone and Set Up the Donation DApp
 
 Step 1: Clone the Project
-git clone <your-repository-url>
+git clone (https://github.com/josefineweine/Donation.git)
 cd donation-dapp
 
 Step 2: Install Dependencies
@@ -47,3 +47,4 @@ npm start
 Step 5: Log in with MetaMask
       •     When you open the app, it will prompt you to connect your MetaMask wallet to the DApp.
       •     You can now start interacting with the contract, donating ETH, and viewing the donation data in real-time.
+
