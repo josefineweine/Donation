@@ -9,7 +9,7 @@ Step 2: Install Dependencies
 
 Backend (Smart Contract) - Optional
 
-If you want to deploy the contract yourself (optional), follow these steps. If not, skip to the Frontend steps.
+If you want to deploy the contract yourself (optional), follow these steps. If not, skip to the Frontend steps. You can use mine contract adress: CONTRACT_ADDRESS=0x0b54FAD894c1EFC7B190cE92D122F5E93704D04B
       1.    Go to the backend/ folder:
 cd backend
 
